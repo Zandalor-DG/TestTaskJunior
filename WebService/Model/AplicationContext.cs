@@ -10,7 +10,7 @@
     {
         #region Properties
 
-        public DbSet<EmailPostModel> Emails { get; set; }
+        public DbSet<Email> Emails { get; set; }
 
         #endregion
 

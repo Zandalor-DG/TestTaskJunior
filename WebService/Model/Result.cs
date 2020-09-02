@@ -2,8 +2,8 @@
 {
     public enum Result
     {
-        Failed = 0,
+        Failed = 1,
 
-        Ok = 1
+        Ok = 2
     }
 }
